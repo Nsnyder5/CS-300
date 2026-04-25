@@ -1,4 +1,4 @@
-# CS-300
+#Course Advising System - Hash Table Implementation
 What was the problem you were solving in the projects for this course? 
 
 The primary problem was to design and implement a course advising system for ABCU that could process raw data files and manage a large catalog of courses. The system needed to provide academic advisors with a reliable way to look up course titles and prerequisites while ensuring that the underlying data was valid and consistent.
